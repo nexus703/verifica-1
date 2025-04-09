@@ -1,0 +1,34 @@
+in questo esercizio ho creato un file html e css.
+ho costruito tutti i passaggi per svluppare una pagina che riguarda come costruire e sviluppare una pasta agli gnocchi ho cominciato inserendo html in entrambi i poli poi ho inserito il body e la head.
+ho cominciato inserendo nel head un testo riferito come titolo della pagina web poi ho proseguito nel body e nella pagina html inserendo vari dati nelle tabelle pero ho cominciato con il titolo e unimmagine del piatto di pasta desiderato  ho finito lesercizio ringraziando chi osserva il file sotto questo testo immetto alcuni dei testi utilizzati
+Istruzioni HTML e CSS Utili
+HTML
+
+ <head> → Contiene metadati e collegamenti a risorse esterne.
+ <meta name="viewport" content="width=device-width, initial-scale=1.0"> → Rende il sito responsive.
+ <title> → Definisce il titolo della pagina.
+ <link rel="stylesheet" href="stile_gnocchi.css"> → Collega il file CSS esterno.
+<style> → Contiene CSS interno.
+<body> → Contiene il contenuto visibile della pagina.
+ <header> → Intestazione della pagina.
+ <div class="container"> → Contenitore principale della pagina.
+ <img src="gnocchi.jpg" alt="Gnocchi al pesto"> → Mostra un'immagine con testo alternativo.
+ <h1>, <h2>, <h3>, <h4> → Intestazioni di diversi livelli.
+ <ol> → Lista ordinata (numerata).
+ <ul> → Lista non ordinata (punti).
+ <li> → Elemento di una lista.
+ <strong> → Testo in grassetto.
+ <em> → Testo in corsivo.
+ <blockquote> → Citazione evidenziata.
+ <cite> → Riferimento a una fonte.
+ <q> → Citazione breve.
+ <sub> → Testo in apice (es. formule chimiche).
+ <sup> → Testo in pedice (es. esponenti).<pre> → Mostra testo preformattato (es. codice).
+<table> → Crea una tabella.
+ <caption> → Titolo della tabella.
+ <th> → Intestazione di colonna.
+ <td> → Cella della tabella.
+ <tr> → Riga della tabella.
+
+ <u> → Sottolineato.
+
